@@ -2,7 +2,7 @@
 
 ## Pretty good for my 1st try don't you think
 
-### This makes the title smaller, much like an <h3> tag in html
+### This makes the title smaller, much like an h3 tag in html
 
 1. I opened up notepad on my computer
 
